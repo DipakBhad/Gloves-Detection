@@ -1,0 +1,45 @@
+{
+  "filename": "images-2-_jpeg.rf.bc4be0fe38e4c4978516751f1cfb3e48.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.72,
+      "bbox": [
+        403,
+        540,
+        457,
+        610
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.7,
+      "bbox": [
+        251,
+        342,
+        308,
+        407
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.64,
+      "bbox": [
+        304,
+        345,
+        354,
+        400
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.48,
+      "bbox": [
+        521,
+        563,
+        561,
+        630
+      ]
+    }
+  ]
+}

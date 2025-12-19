@@ -1,0 +1,25 @@
+{
+  "filename": "Image_ipg-2083-_jpg.rf.c35b58fb40f127d80eef5ce7e53e3e7b.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.73,
+      "bbox": [
+        157,
+        353,
+        222,
+        417
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.63,
+      "bbox": [
+        379,
+        347,
+        433,
+        413
+      ]
+    }
+  ]
+}

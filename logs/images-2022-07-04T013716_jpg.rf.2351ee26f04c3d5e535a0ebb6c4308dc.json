@@ -1,0 +1,25 @@
+{
+  "filename": "images-2022-07-04T013716_jpg.rf.2351ee26f04c3d5e535a0ebb6c4308dc.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.89,
+      "bbox": [
+        137,
+        132,
+        344,
+        405
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.73,
+      "bbox": [
+        312,
+        47,
+        529,
+        270
+      ]
+    }
+  ]
+}
